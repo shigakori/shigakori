@@ -23,7 +23,7 @@
 ### 👋 About Me
 
 - 🎯 Frontend developer focused on **smooth UI, slick UX, and motion design**
-- ⚙️ Stack: **Next.js**, **JavaScript**, **GSAP** (ScrollTrigger, ScrollSmoother), **TailwindCSS**
+- ⚙️ Stack: **Next.js**, **JavaScript**, **GSAP** (ScrollTrigger, ScrollSmoother), **TailwindCSS**, **Vue.js**
 - 🎨 Love building **animated, fast and interactive websites**
 - 🌍 Open to remote opportunities and collaborations worldwide
 
