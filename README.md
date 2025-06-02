@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+shigakori;Frontend+Developer+%7C+Next.js%2C+GSAP%2C+Tailwind;Clean+UI+%2B+Smooth+UX+%2B+Subtle+Animations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aziz;Frontend+Developer+%7C+Next.js%2C+GSAP%2C+Tailwind;Clean+UI+%2B+Smooth+UX+%2B+Subtle+Animations" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:8e2de2,100:4a00e0&height=150&section=header&text=shigakori%20%7C%20Frontend%20Dev&fontSize=36&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=shigakori&fontColor=ffffff&fontSize=36&fontAlignY=50" alt="header"/>
 </p>
 
 <p align="center">
