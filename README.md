@@ -29,26 +29,12 @@
 
 ---
 
-### ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,js,html,css,tailwind,gsap,git,github,figma" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shigakori&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shigakori&theme=tokyonight" height="150"/>
 </p>
-
----
-
-### ⚡ Fun Fact
-
-> “Smooth animations aren’t just eye-candy — they’re how you guide attention.”
 
 ---
 
