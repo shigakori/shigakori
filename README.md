@@ -8,10 +8,10 @@
   <a href="https://github.com/shigakori">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:shigakori@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/acccide">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
 </p>
