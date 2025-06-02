@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=shigakori&fontColor=ffffff&fontSize=36&fontAlignY=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:8e2de2,100:4a00e0&height=150&section=header&text=shigakori%20%7C%20Frontend%20Dev&fontSize=36&fontAlignY=35" alt="header"/>
 </p>
 
 <p align="center">
