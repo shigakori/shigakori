@@ -21,8 +21,7 @@
 ### 👋 About Me
 
 - 💡 Frontend developer focused on clean UI and great UX
-- ⚡ React, TypeScript, MUI, Emotion, modern web stack
-- 🌱 Currently learning Next.js & React Native
+- ⚡ Nextjs, JavaScript, GSAP, Tailwind, modern web stack
 - 🛠️ Always open to new technologies and collaboration
 
 ---
