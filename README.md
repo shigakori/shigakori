@@ -33,7 +33,7 @@ currently:
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/anime-dark.gif" width="260" />
+<img src="https://c4.wallpaperflare.com/wallpaper/290/739/638/vagabond-samurai-miyamoto-musashi-japan-kimono-hd-wallpaper-preview.jpg" width="260" />
 
 </td>
 </tr>
@@ -118,10 +118,6 @@ modern ui
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shigakori&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shigakori&bg_color=050505&color=ffffff&line=ffffff&point=8b8b8b&area=true&hide_border=true"/>
