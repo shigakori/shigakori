@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8f/2c/bb/8f2cbbf80bdbff448f080f9d806c7606.gif" width="100%" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/943/424/1010/vagabond-takehiko-inoue-wallpaper-preview.jpg" width="100%" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ modern ui
     <img src="https://img.shields.io/badge/mail-050505?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://t.me/acccide">
+  <a href="https://t.me/accccide">
     <img src="https://img.shields.io/badge/telegram-050505?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -120,7 +120,7 @@ modern ui
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shigakori&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shigakori&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff" />
 </p>
 
 <p align="center">
