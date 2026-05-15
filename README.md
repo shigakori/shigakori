@@ -59,36 +59,36 @@ currently:
 <td width="33%">
 
 ```txt
-01 / SUPER TOUR
+01 / ARTISTIC ESSENCE
 
-travel landing page
-bold visuals
-smooth transitions
-modern ui flow
-```
-
-</td>
-<td width="33%">
-
-```txt
-02 / CINEPHILE
-
-vue movie app
-tmdb api
-ratings + posters
-multi-page structure
-```
-
-</td>
-<td width="33%">
-
-```txt
-03 / PORTFOLIO
-
-dark aesthetic
+modern portfolio
 gsap motion
-smooth scroll
-minimal layout
+smooth transitions
+clean visuals
+```
+
+</td>
+<td width="33%">
+
+```txt
+02 / ECHO LAB
+
+minimal portfolio
+app router
+view transitions
+gsap scroll
+```
+
+</td>
+<td width="33%">
+
+```txt
+03 / HORIZONAI
+
+ai landing page
+clean interface
+structured content
+modern ui
 ```
 
 </td>
@@ -121,24 +121,10 @@ minimal layout
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shigakori&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff" height="150"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shigakori&theme=dark&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="150"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shigakori&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=8b8b8b"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shigakori&bg_color=050505&color=ffffff&line=ffffff&point=8b8b8b&area=true&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
